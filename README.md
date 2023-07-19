@@ -1,8 +1,8 @@
 # Links
 
-![](chrome_59KonrXwLr.png)
+![Screenshot](./public/chrome_59KonrXwLr.png)
 
-[View live]()
+[View live](https://e-guru213.netlify.app/)
 [Made by Taqwah](https://www.figma.com/community/file/1106419083809244171)
 
 # About
@@ -14,6 +14,7 @@ This is a landing page for an e-learning educational website.
 - React TSX
 - Tailwind CSS
 - Vite
+- Framer Motion
 
 # Problems that I've Encountered
 
