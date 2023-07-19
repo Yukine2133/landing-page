@@ -1,5 +1,7 @@
 # Links
 
+[](chrome_59KonrXwLr.png)
+
 [View live]()
 [Made by Taqwah](https://www.figma.com/community/file/1106419083809244171)
 
@@ -16,4 +18,3 @@ This is a landing page for an e-learning educational website.
 # Problems that I've Encountered
 
 In the mobile design there goes a text, a man and then buttons, but i couldn't implement that.
-Also the footer section is odd on the medium and large screens.
