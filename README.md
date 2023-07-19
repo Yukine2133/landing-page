@@ -1,6 +1,6 @@
 # Links
 
-[](chrome_59KonrXwLr.png)
+![](chrome_59KonrXwLr.png)
 
 [View live]()
 [Made by Taqwah](https://www.figma.com/community/file/1106419083809244171)
